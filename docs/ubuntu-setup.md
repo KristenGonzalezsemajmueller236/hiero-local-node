@@ -80,3 +80,5 @@ hedera start -d
 * [Installing Node.js via package manager](https://nodejs.org/en/download/package-manager)
 * [NodeSource Node.js Binary Distributions](https://github.com/nodesource/distributions)
 * [README file of hedera-local-node repo](https://github.com/hashgraph/hedera-local-node/blob/main/README.md)
+
+<!-- Auto-update: 2025-10-19T09:32:59.016658 -->
